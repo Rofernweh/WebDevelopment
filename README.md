@@ -1,25 +1,16 @@
 # Web and Mobile Development Course
 
-This repository contains the coursework, projects, and resources for the Web and Mobile Development course I am currently taking. The course covers essential skills and best practices for designing and building web and mobile applications using modern technologies and frameworks.
+This repository showcases my coursework, projects, and resources from my Web and Mobile Development course, which covers modern web and mobile technologies, frameworks, and best practices.
 
-## Course Overview
+## Course Units
 
-The course is designed to teach students how to:
+1. HTTP protocol, connection types, and HTTP requests (GET, POST, PUT, DELETE).
+2. Modern web and mobile development architectures (API types: REST, SOAP).
+3. Building HTML-CSS views.
+4. View rendering languages (e.g., PHP).
+5. Web page scripting (e.g., ECMAScript 6 or JavaScript).
+6. Using libraries for sending and receiving web requests and managing the DOM (e.g., jQuery).
+7. Designing and building APIs (e.g., ExpressJS, Flask) and web systems based on HTML templates.
+8. Mobile development frameworks for app building.
 
-1. Create responsive and user-friendly websites using HTML, CSS, and JavaScript.
-2. Utilize popular web development frameworks and libraries, such as React, Angular, and Vue.js.
-3. Develop mobile applications for Android and iOS using cross-platform frameworks like React Native and Flutter.
-4. Implement responsive design principles to ensure a seamless experience across various devices and screen sizes.
-5. Integrate web and mobile applications with back-end services and databases.
-6. Apply best practices for code organization, testing, and deployment.
-
-## Repository Structure
-
-This repository is organized into the following folders:
-
-- `lectures`: Contains lecture notes, slides, and other resources from the course.
-- `assignments`: Contains solutions to the course assignments, including coding exercises and projects.
-- `resources`: Contains useful resources, such as tutorials, articles, and tools, to supplement the course material.
-
-Feel free to explore the repository and use the provided materials for learning and reference purposes.
-
+Feel free to explore the repository to learn more about the course materials, assignments, and projects that demonstrate my skills and accomplishments.
